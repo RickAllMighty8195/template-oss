@@ -33,7 +33,7 @@
   "dependencies": {
     "@npmcli/fs": "^2.0.1",
     "@npmcli/git": "^3.0.0",
-    "@npmcli/map-workspaces": "^2.0.2",
+    "@npmcli/map-workspaces": "^3.0.3",
     "@npmcli/package-json": "^1.0.1",
     "diff": "^5.0.0",
     "handlebars": "^4.7.7",
